@@ -6,6 +6,7 @@ public class Main {
 
     public static void main(String[] args)
     {
+        //changed
         int x;
         int y;
         Scanner sc = new Scanner(System.in);

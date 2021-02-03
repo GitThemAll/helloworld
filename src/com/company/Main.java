@@ -12,5 +12,6 @@ public class Main {
         x = sc.nextInt();
         y = sc.nextInt();
         System.out.println("x + y = " + (x+y));
+        System.out.println("x - y = " + (x-y));
     }
 }
